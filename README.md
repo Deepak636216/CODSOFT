@@ -1,4 +1,3 @@
-To create the complete `README.md` with an overview of the **Student Registration System** and the **CodSoft Projects** repository, I’ll combine descriptions for both sections. Here’s the final readme:
 
 ---
 
